@@ -1,0 +1,17 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+body {
+    background: url("../tattoo-img/fondo.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height:100vh;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+
+}
