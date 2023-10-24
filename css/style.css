@@ -90,6 +90,7 @@ body {
     #check:checked~.iconos #cerrar-icon {
         display: block;
     }
+    
     .navbar {
         position: absolute;
         top: 100%;
@@ -234,6 +235,7 @@ textarea {
 }
 
 @media screen and (max-width:768px) {
+
     .caja_padre {
         grid-template-columns: 1fr;
     }
